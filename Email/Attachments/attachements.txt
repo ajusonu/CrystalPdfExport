@@ -1,0 +1,1 @@
+﻿Attachements for emails need to be under the Attachments folder in the HotApi.Apis.BookRestApi
