@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrbitCrystalExport", "OrbitCrystalExport\OrbitCrystalExport.csproj", "{37D15241-16B4-4FFE-ACB8-68388B36EFF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCrystalExport", "WebCrystalExport\WebCrystalExport.csproj", "{B807386D-3825-4CCD-AD2C-BBB3AC3467C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrbitCrystalExport.Library", "WebCrystalExport.Library\OrbitCrystalExport.Library.csproj", "{A2EC920D-E3DB-4D9C-8C21-76A988A1D4C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrbitCrystalExport.DAL", "WebCrystalExport.DAL\OrbitCrystalExport.DAL.csproj", "{EBA9B926-0E22-46B7-AAAE-246FF45615D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrbitCrystalExport.Test", "OrbitCrystalExport.Test\OrbitCrystalExport.Test.csproj", "{E2BDF601-BBF1-45A5-B079-E60B3E5043EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37D15241-16B4-4FFE-ACB8-68388B36EFF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D15241-16B4-4FFE-ACB8-68388B36EFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D15241-16B4-4FFE-ACB8-68388B36EFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D15241-16B4-4FFE-ACB8-68388B36EFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B807386D-3825-4CCD-AD2C-BBB3AC3467C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B807386D-3825-4CCD-AD2C-BBB3AC3467C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B807386D-3825-4CCD-AD2C-BBB3AC3467C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B807386D-3825-4CCD-AD2C-BBB3AC3467C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2EC920D-E3DB-4D9C-8C21-76A988A1D4C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2EC920D-E3DB-4D9C-8C21-76A988A1D4C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2EC920D-E3DB-4D9C-8C21-76A988A1D4C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2EC920D-E3DB-4D9C-8C21-76A988A1D4C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBA9B926-0E22-46B7-AAAE-246FF45615D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA9B926-0E22-46B7-AAAE-246FF45615D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA9B926-0E22-46B7-AAAE-246FF45615D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA9B926-0E22-46B7-AAAE-246FF45615D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2BDF601-BBF1-45A5-B079-E60B3E5043EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2BDF601-BBF1-45A5-B079-E60B3E5043EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2BDF601-BBF1-45A5-B079-E60B3E5043EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2BDF601-BBF1-45A5-B079-E60B3E5043EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FD93579-F521-469D-8EE5-CA0D2C39D50A}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://houseoftravel.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = OrbitCrystalExport\\OrbitCrystalExport.csproj
+		SccProjectName1 = OrbitCrystalExport
+		SccLocalPath1 = OrbitCrystalExport
+		SccProjectUniqueName2 = WebCrystalExport\\WebCrystalExport.csproj
+		SccProjectName2 = WebCrystalExport
+		SccLocalPath2 = WebCrystalExport
+		SccProjectUniqueName3 = WebCrystalExport.DAL\\OrbitCrystalExport.DAL.csproj
+		SccProjectName3 = WebCrystalExport.DAL
+		SccLocalPath3 = WebCrystalExport.DAL
+		SccProjectUniqueName4 = WebCrystalExport.Library\\OrbitCrystalExport.Library.csproj
+		SccProjectName4 = WebCrystalExport.Library
+		SccLocalPath4 = WebCrystalExport.Library
+		SccProjectUniqueName5 = OrbitCrystalExport.Test\\OrbitCrystalExport.Test.csproj
+		SccProjectName5 = OrbitCrystalExport.Test
+		SccLocalPath5 = OrbitCrystalExport.Test
+	EndGlobalSection
+EndGlobal
